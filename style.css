@@ -1,11 +1,11 @@
 
 
 :root{
-    --branco: rgb(255, 208, 0);
-    --cor-de-fundo: #00162E;
+    --branco: rgba(245, 194, 252, 0.582);
+    --cor-de-fundo: #9f42eb;
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
-    --borda: #afbfd1;
+    --borda: #f333c9;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
